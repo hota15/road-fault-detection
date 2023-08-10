@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_5</folder>
+	<filename>1076696_DF_251_251BDF0530_03999_RAW.jpg</filename>
+	<path>C:\Users\admin\OneDrive\Desktop\New_5\1076696_DF_251_251BDF0530_03999_RAW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>387</ymin>
+			<xmax>937</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

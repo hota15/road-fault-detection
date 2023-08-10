@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_5</folder>
+	<filename>916659_RS_290_290RS294095_16745_RAW.jpg</filename>
+	<path>C:\Users\admin\OneDrive\Desktop\New_5\916659_RS_290_290RS294095_16745_RAW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>275</ymin>
+			<xmax>936</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

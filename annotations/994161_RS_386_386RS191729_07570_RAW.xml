@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_3</folder>
+	<filename>994161_RS_386_386RS191729_07570_RAW.jpg</filename>
+	<path>C:\Users\admin\OneDrive\Desktop\New_3\994161_RS_386_386RS191729_07570_RAW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>191</ymin>
+			<xmax>545</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

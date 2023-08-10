@@ -1,0 +1,6 @@
+path: C:\Users\tanis\Desktop\yolo
+train: datasets/train/images
+val: datasets/val/images
+
+nc: 6
+names: ["crack", "hole", "'", "crack'", "cracks", "hole\\"]

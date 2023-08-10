@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_3</folder>
+	<filename>942028_RS_290_290RS070691_03045_RAW.jpg</filename>
+	<path>C:\Users\admin\OneDrive\Desktop\New_3\942028_RS_290_290RS070691_03045_RAW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>380</ymin>
+			<xmax>457</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

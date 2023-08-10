@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_5</folder>
+	<filename>1077523_DF_251_251BDF0530_05543_RAW.jpg</filename>
+	<path>C:\Users\admin\OneDrive\Desktop\New_5\1077523_DF_251_251BDF0530_05543_RAW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>382</ymin>
+			<xmax>765</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
