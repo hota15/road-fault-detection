@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New_5</folder>
+	<folder>Images</folder>
 	<filename>916335_RS_290_290RS294095_15126_RAW.jpg</filename>
-	<path>C:\Users\admin\OneDrive\Desktop\New_5\916335_RS_290_290RS294095_15126_RAW.jpg</path>
+	<path>C:\Users\admin\OneDrive\Desktop\Images\916335_RS_290_290RS294095_15126_RAW.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>crack'</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

@@ -20,8 +20,8 @@ def draw_image(img, bboxes):
     img.show()
 
 
-image_filename = "images/765441_ES_259_259ES000000_01305_RAW.jpg"
-label_filename = "labels/765441_ES_259_259ES000000_01305_RAW.txt"
+image_filename = "C:/Users/tanis/Desktop/yolo/raw_images/733835_ES_482_482ES014500_05885_RAW.jpg"
+label_filename ="C:/Users/tanis/Desktop/yolo/labels/733835_ES_482_482ES014500_05885_RAW.txt"
 bboxes = []
 
 img = Image.open(image_filename)

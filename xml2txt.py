@@ -27,7 +27,7 @@ def yolo_to_xml_bbox(bbox, w, h):
 classes = []
 input_dir = "annotations/"
 output_dir = "labels/"
-image_dir = "images/"
+image_dir = "raw_images/"
 
 # create the labels folder (output directory)
 os.mkdir(output_dir)
