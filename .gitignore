@@ -1,4 +1,8 @@
 Final/
-images/
+raw_images/
 labels/
+RESULTS/
+results_yolov8/
+datasets/
+
 

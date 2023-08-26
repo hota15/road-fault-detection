@@ -1,7 +1,7 @@
 import os
 import shutil
 
-image_path ="images"
+image_path ="raw_images"
 label_path ="annotations"
 main_path = "Final/Final"
 
